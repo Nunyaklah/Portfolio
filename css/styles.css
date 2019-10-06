@@ -43,6 +43,10 @@ a:hover{
 	color: #EAF6F6;
 }
 
+p{
+	font-size: 18px;
+}
+
 .top-container{
 	background-color: #E4F9F5;
 	padding-top: 100px;
